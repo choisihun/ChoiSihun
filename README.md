@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?text=choisihun&fontColor=000000&color=yellow)
+![header](https://capsule-render.vercel.app/api?text=choisihun&fontColor=FFDA16&color=000000)
