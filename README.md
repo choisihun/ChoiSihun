@@ -23,6 +23,5 @@
 <a><img src="https://img.shields.io/badge/html5-ffffff?style=&logo=html5&logoColor=E34F26"/></a>
 <a><img src="https://img.shields.io/badge/css3-ffffff?style=&logo=css3&logoColor=1572B6"/></a>
 
-<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choisihun&layout=compact&theme=tokyonight)
 
