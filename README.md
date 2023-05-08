@@ -12,7 +12,7 @@
 
 <h3 align="center"><b>I like..</b></h3>
 <br>
-<p align="center">💻Programming,&nbsp;&nbsp;🎵Music,&nbsp;&nbsp;💪Exercise,&nbsp;&nbsp;🧹CleanCode,&nbsp;&nbsp;</p>
+<p align="center">💻Programming,&nbsp;&nbsp;🎵Music,&nbsp;&nbsp;💪Exercise,&nbsp;&nbsp;</p>
 
 <br>
 
