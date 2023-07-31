@@ -16,7 +16,9 @@
 
 <br>
 
-<h3 align="center"><b>My Stack!</b><br><a href="https://developer.apple.com/swift/resources/" target="_blank"><img src="https://img.shields.io/badge/Swift-ffffff?style=&logo=swift&logoColor=F05138"/></a>
+<h3 align="center">
+<b>My Stack!</b><br>
+<a href="https://developer.apple.com/swift/resources/" target="_blank"><img src="https://img.shields.io/badge/Swift-ffffff?style=&logo=swift&logoColor=F05138"/></a>
 <a><img src="https://img.shields.io/badge/C++-ffffff?style=&logo=cplusplus&logoColor=A8B9CC"/></a>
 <a><img src="https://img.shields.io/badge/html5-ffffff?style=&logo=html5&logoColor=E34F26"/></a>
 <a><img src="https://img.shields.io/badge/css3-ffffff?style=&logo=css3&logoColor=1572B6"/></a></h3>
