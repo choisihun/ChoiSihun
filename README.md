@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?text=choisihun&fontColor=ffffff&color=FFDA16&type=waving)
+![header](https://capsule-render.vercel.app/api?text=choisihun&fontColor=000000&color=FFDA16&type=waving)
 <br>
 
 <!--<h3 align="center"><b>This is me!</b></h3>-->
