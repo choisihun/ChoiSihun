@@ -3,7 +3,7 @@
 <div align="center">
 
 ### iOS 개발자 최시훈입니다.
-사용자 경험유지보수성을 함께 챙기는 앱을 만듭니다.
+사용자 경험과 유지보수성을 함께 챙기는 앱을 만듭니다.
 
 </div>
 
@@ -25,6 +25,12 @@
 <img src="https://img.shields.io/badge/Drift-ffffff?style=flat-square&logo=sqlite&logoColor=003B57"/>
 <img src="https://img.shields.io/badge/Dio-ffffff?style=flat-square&logo=dart&logoColor=0175C2"/>
 <img src="https://img.shields.io/badge/Firebase-ffffff?style=flat-square&logo=firebase&logoColor=FFCA28"/>
+
+#### Backend
+<img src="https://img.shields.io/badge/FastAPI-ffffff?style=flat-square&logo=fastapi&logoColor=009688"/>
+<img src="https://img.shields.io/badge/MySQL-ffffff?style=flat-square&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/Docker-ffffff?style=flat-square&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/Spring_Boot-ffffff?style=flat-square&logo=springboot&logoColor=6DB33F"/>
 
 #### Tools
 <img src="https://img.shields.io/badge/Git-ffffff?style=flat-square&logo=git&logoColor=F05032"/>
