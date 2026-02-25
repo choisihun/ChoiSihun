@@ -20,12 +20,6 @@
 <img src="https://img.shields.io/badge/Dart-ffffff?style=flat-square&logo=dart&logoColor=0175C2"/>
 <img src="https://img.shields.io/badge/Flutter-ffffff?style=flat-square&logo=flutter&logoColor=02569B"/>
 
-#### State / Data
-<img src="https://img.shields.io/badge/Riverpod-ffffff?style=flat-square&logo=flutter&logoColor=02569B"/>
-<img src="https://img.shields.io/badge/Drift-ffffff?style=flat-square&logo=sqlite&logoColor=003B57"/>
-<img src="https://img.shields.io/badge/Dio-ffffff?style=flat-square&logo=dart&logoColor=0175C2"/>
-<img src="https://img.shields.io/badge/Firebase-ffffff?style=flat-square&logo=firebase&logoColor=FFCA28"/>
-
 #### Backend
 <img src="https://img.shields.io/badge/FastAPI-ffffff?style=flat-square&logo=fastapi&logoColor=009688"/>
 <img src="https://img.shields.io/badge/MySQL-ffffff?style=flat-square&logo=mysql&logoColor=4479A1"/>
@@ -37,6 +31,7 @@
 <img src="https://img.shields.io/badge/GitHub-ffffff?style=flat-square&logo=github&logoColor=181717"/>
 <img src="https://img.shields.io/badge/Figma-ffffff?style=flat-square&logo=figma&logoColor=F24E1E"/>
 <img src="https://img.shields.io/badge/Xcode-ffffff?style=flat-square&logo=xcode&logoColor=147EFB"/>
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-ffffff?style=flat-square&logo=visualstudiocode&logoColor=007ACC"/>
 <img src="https://img.shields.io/badge/Android%20Studio-ffffff?style=flat-square&logo=androidstudio&logoColor=3DDC84"/>
 
 </div>
